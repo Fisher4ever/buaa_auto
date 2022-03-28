@@ -46,7 +46,7 @@ def main(argv):
                 "province": "北京市 海淀区",
                 "address": "北京市海淀区知春路",
                 "gwdz": "",
-                "is_move": "1",
+                "is_move": "0",
                 "move_reason": "4",
                 "move_remark": "",
                 "uid": "421580",
